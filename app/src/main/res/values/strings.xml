@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Main HOme-->
+    <string name="boot_say">I am your Boot What you want ?</string>
+    <string name="gotofirebase">Firebase</string>
+    <string name="gotoboot">Boot</string>
+    <string name="title_activity_jarvis">JarvisActivity</string>
+    <string name="title_activity_firebase">FirebaseActivity</string>
+    <string name="title_activity_boot">BootActivity</string>
+</resources>
