@@ -1,4 +1,4 @@
 # Jarvis
-Jarvis (Android) with wit
+Jarvis (Android)
 Conversation with Wit.
 NOT AVAILABLE YET
